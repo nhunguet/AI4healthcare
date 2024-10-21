@@ -13,5 +13,5 @@ This is a collaborative project to build a review on AI for healthcare applicati
 ## Guidelines
 
 - Make sure your content is clear and concise.
-- Follow the coding style and format used in the book.
+- Follow the coding style and format used in the paper.
 - Submit meaningful Pull Requests.
