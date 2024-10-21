@@ -3,32 +3,26 @@
 
 
 
-# 1. Introduction to AI in Healthcare
 
-# 2. Fundamentals of Healthcare Systems
 
-# 3. Data Collection and Preprocessing
+<h2> Deep Learning in Medicine </h2>
 
-# 4. Machine Learning Basics
+<h2>Natural Language Processing (NLP) in Healthcare </h2>
 
-# 5. Deep Learning in Medicine
+<h2> AI in Diagnostics and Imaging</h2> 
 
-# 6. Natural Language Processing (NLP) in Healthcare
+<h2> AI in Diagnostics and Imaging </h2>
 
-# 7. AI in Diagnostics and Imaging
+<h2>AI in Drug Discovery and Development </h2> 
 
-# 8. AI in Diagnostics and Imaging
+<h2> Robotics and AI in Surgery </h2>
 
-# 9. AI in Drug Discovery and Development
+<h2>AI in Patient Monitoring and Management </h2>
 
-# 10.Robotics and AI in Surgery
+<h2>Ethical Considerations and Bias in AI </h2>
 
-# 11.AI in Patient Monitoring and Management
+<h2>AI and Healthcare Policy </h2>
 
-# 12.Ethical Considerations and Bias in AI
+<h2>Case Studies and Real-World Applications </h2>
 
-# 13.AI and Healthcare Policy
-
-# 14.Case Studies and Real-World Applications
-
-# 15. Future Directions and Course Wrap-Up
+<h2> Future Directions and Course Wrap-Up </h2>
