@@ -1,7 +1,7 @@
 
 <h1> AI for healthcare: A review paper</h1>
 
-Welcome to the AI4healthcare wiki!
+
 
 # 1. Introduction to AI in Healthcare
 
