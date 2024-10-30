@@ -40,3 +40,6 @@ than other methods and effective for glaucoma detection [1]
 <h2>Case Studies and Real-World Applications </h2>
 
 <h2> Future Directions and Course Wrap-Up </h2>
+
+<h2> References</h2>
+[1] Arkaja Saxena, Abhilasha Vyas, Lokesh Parashar, Upendra Singh, A Glaucoma Detection using Convolution Neural Network 
