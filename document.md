@@ -12,7 +12,7 @@ sumamry...
 
 Glaucoma is the disease that affects the human eye and results in a permanent blindness if not detect at early stage. The Situation is very complex, so the proper
 detection is must. Detection at early stages may be improved else it may lead toloss
-of vision. The main reason for the vision loss is affected optic nerve of the eye. Thedoctor needs at least 5 check-up reports to confirm the glaucoma a ffection, soit
+of vision. The main reason for the vision loss is affected optic nerve of the eye. The doctor needs at least 5 check-up reports to confirm the glaucoma a ffection, soit
 becomes essential to design a system to detect this disease accurately in one attempt. This paper presents architecture for the proper glaucoma detection based ontheconvolutional neural network (CNN). It will make differentiation between the patterns
 formed for glaucoma and non-glaucoma. CNN used for achieving the adequateperformance in the glaucoma detection. Overall Architecture is having six layers for
 proper detection of the disease. A dropout mechanism is also applied to improve theperformance of the given approach. SCES(has 46 images for glaucoma and 1676images for the normal fundus.) and ORIGA(having 168 glaucoma and 482 images of
