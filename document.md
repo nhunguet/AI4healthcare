@@ -8,7 +8,7 @@ sumamry...
 <h2>Natural Language Processing (NLP) in Healthcare </h2>
 
 <h2> AI in Diagnostics and Imaging</h2> 
-// 
+
 
 Glaucoma is the disease that affects the human eye and results in a permanent blindness if not detect at early stage. The Situation is very complex, so the proper
 detection is must. Detection at early stages may be improved else it may lead toloss
