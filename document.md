@@ -1,8 +1,14 @@
 
 <h1> AI for healthcare: Summary</h1>
 
-sumamry...
-                                                                                                                      
+
+Artificial Intelligence (AI) is no longer a futuristic aspiration in the field of healthcare—it is a transformative force actively shaping the landscape of medicine, diagnostics, and patient care. This document,  "Application of AI for Healthcare " offers an advanced exploration of the cutting-edge intersections between AI and medicine, catering to professionals and researchers deeply involved in AI development and application.  
+
+The book is structured around ten pivotal topics, each reflecting a critical domain where AI is driving innovation and solving complex healthcare challenges. By bridging theoretical frameworks with practical implementations, this book not only explores the technical intricacies of AI methodologies but also emphasizes their clinical relevance and ethical considerations.  
+
+Each chapter includes a summary of a landmark scientific paper, carefully selected to demonstrate the state-of-the-art in that specific domain. These case studies provide a rigorous foundation for understanding how AI algorithms transition from theoretical constructs to practical tools, impacting patient outcomes and medical processes.  
+
+This document aims to be a valuable resource for AI specialists, healthcare researchers, and technology developers, fostering deeper insights into how AI solutions are conceived, evaluated, and integrated into one of humanity’s most critical domains—healthcare.                                                                                                                      
 <h2> Deep Learning in Medicine </h2>
 
 <h2>Natural Language Processing (NLP) in Healthcare </h2>
@@ -29,15 +35,10 @@ than other methods and effective for glaucoma detection [1]
 <h2>AI in Drug Discovery and Development </h2> 
 
 <h2> Robotics and AI in Surgery </h2>
-Medical image segmentation is a critical foundation for
-the advancement of healthcare systems, playing an
-essential role in accurately diagnosing diseases and
-planning treatment strategies. Among segmentation
-models, the U-Net architecture, a U-shaped
-convolutional neural network (CNN), has become a
-widely accepted standard due to its success in various
-medical image segmentation tasks. U-Net’s encoderdecoder structure allows it to capture both global and
-local features, but it often struggles with modeling longrange dependencies due to the intrinsic locality of its
+Medical image segmentation is a critical foundation for the advancement of healthcare systems, playing an
+essential role in accurately diagnosing diseases and planning treatment strategies. Among segmentation
+models, the U-Net architecture, a U-shaped convolutional neural network (CNN), has become a
+widely accepted standard due to its success in various medical image segmentation tasks. U-Net’s encoderdecoder structure allows it to capture both global and local features, but it often struggles with modeling longrange dependencies due to the intrinsic locality of its
 convolution operations, which primarily focus on
 neighboring pixels. This limitation can restrict U-Net’s
 ability to recognize broader contextual information,
