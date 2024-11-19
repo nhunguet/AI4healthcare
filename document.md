@@ -69,7 +69,7 @@ outperforms other methods across various medical
 segmentation applications, including multi-organ
 segmentation and cardiac segmentation, highlighting
 its effectiveness in improving segmentation outcomes
-through its innovative, dual-component design.
+through its innovative, dual-component design [2]
 <h2>AI in Patient Monitoring and Management </h2>
 
 <h2>Ethical Considerations and Bias in AI </h2>
@@ -82,3 +82,5 @@ through its innovative, dual-component design.
 
 <h2> References</h2>
 [1] Arkaja Saxena, Abhilasha Vyas, Lokesh Parashar, Upendra Singh, A Glaucoma Detection using Convolution Neural Network 
+[2] TransUNet: Transformers Make Strong
+Encoders for Medical Image Segmentation
