@@ -13,6 +13,11 @@ This document aims to be a valuable resource for AI specialists, healthcare rese
 
 <h2>Natural Language Processing (NLP) in Healthcare </h2>
 
+The technology for decoding thoughts into text based on brainwaves represents a crucial research area that can transform human linguistic expressions into digital forms. This technology is particularly beneficial for individuals with neurological disorders and shows potential for expanding human-machine interaction (HMI). Generally, EEG-to-Text translation decodes sentences read, spoken, or thought by humans using brainwave inputs.
+EEG-to-Text [3] is one of the pioneering studies that performed EEG-to-Text translation using a language model. This paper utilizes a pre-trained natural language model (BART) to convert EEG signals into text, enabling the use of an open vocabulary. DeWave [4] addresses the issue of individual differences in brainwave characteristics using discrete codex. Studies have shown that brainwaves exhibit variability even when reading the same sentences across individuals. To enhance decoding accuracy and reduce individual differences, DeWave transforms continuous EEG signals into discrete codex. It employs VQ-VAE for codex conversion and combines it with BART to learn natural language generation through alignment between EEG and text.
+NeuSpeech [5] adopts a speech-based pre-trained model. Since brainwaves are wave-like data, it uses wave2vec, a language model pre-trained on audio data, instead of a natural language-based model. To address the differences in channels between audio and EEG, NeuSpeech incorporates CNN layers.
+These advancements aim to overcome the existing limitations in EEG-to-Text technology. However, current challenges include the scarcity of data and the fact that most datasets are limited to reading stimuli. Future research is expected to expand this technology by incorporating more diverse data sources and practical application scenarios.
+
 <h2> AI in Diagnostics and Imaging</h2> 
 
 
@@ -85,4 +90,11 @@ through its innovative, dual-component design [2]
 [1] Arkaja Saxena, Abhilasha Vyas, Lokesh Parashar, Upendra Singh, A Glaucoma Detection using Convolution Neural Network 
 
 [2] TransUNet: Transformers Make Strong
+
+[3] Wang, Z., & Ji, H. (2022). Open vocabulary electroencephalography-to-text decoding and zero-shot sentiment classification. Proceedings of the AAAI Conference on Artificial Intelligence, 36(5), 5350–5358.
+
+[4] Duan, Y., Zhou, C., Wang, Z., Wang, Y.-K., & Lin, C.-T. (2023). DeWave: Discrete encoding of EEG waves for EEG to text translation. Thirty-seventh Conference on Neural Information Processing Systems. Retrieved from https://openreview.net/forum?id=WaLI8slhLw
+
+[5] Yang, Y., Duan, Y., Zhang, Q., Jo, H., Zhou, J., Lee, W. H., Xu, R., & Xiong, H. (2024). NeuSpeech: Decode neural signal as speech. arXiv. https://arxiv.org/abs/2403.01748
+
 Encoders for Medical Image Segmentation
