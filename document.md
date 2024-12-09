@@ -48,10 +48,7 @@ In conclusion, diffusion models represent a promising leap forward in medical im
 <h2>AI in Drug Discovery and Development </h2> 
 
 <h2> Robotics and AI in Surgery </h2>
-Medical image segmentation is a critical foundation for the advancement of healthcare systems, playing an
-essential role in accurately diagnosing diseases and planning treatment strategies. Among segmentation models, the U-Net architecture, a U-shaped convolutional neural network (CNN), has become a widely accepted standard due to its success in various medical image segmentation tasks. U-Net’s encoderdecoder structure allows it to capture both global and local features, but it often struggles with modeling longrange dependencies due to the intrinsic locality of its
-convolution operations, which primarily focus on neighboring pixels. This limitation can restrict U-Net’s
-ability to recognize broader contextual information, which is often crucial for precise segmentation in
+Medical image segmentation is a critical foundation for the advancement of healthcare systems, playing an essential role in accurately diagnosing diseases and planning treatment strategies. Among segmentation models, the U-Net architecture, a U-shaped convolutional neural network (CNN), has become a widely accepted standard due to its success in various medical image segmentation tasks. U-Net’s encoderdecoder structure allows it to capture both global and local features, but it often struggles with modeling longrange dependencies due to the intrinsic locality of its convolution operations, which primarily focus on neighboring pixels. This limitation can restrict U-Net’s ability to recognize broader contextual information, which is often crucial for precise segmentation in
 complex medical images. Transformers, originally designed for tasks involving sequence-to-sequence
 prediction, have gained popularity as potential alternatives in segmentation tasks, as their selfattention mechanism captures global dependencies
 across the input. However, the Transformer architecture tends to lose some fine-grained
@@ -93,7 +90,7 @@ Predictive analytics leverages AI to analyze historical patient data, identify p
 <h2> References</h2>
 [1] Arkaja Saxena, Abhilasha Vyas, Lokesh Parashar, Upendra Singh, A Glaucoma Detection using Convolution Neural Network 
 
-[2] TransUNet: Transformers Make Strong
+[2] TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation
 
 [3] Wang, Z., & Ji, H. (2022). Open vocabulary electroencephalography-to-text decoding and zero-shot sentiment classification. Proceedings of the AAAI Conference on Artificial Intelligence, 36(5), 5350–5358.
 
@@ -107,4 +104,4 @@ Predictive analytics leverages AI to analyze historical patient data, identify p
 
 [8] Tsvetanov, F. Integrating AI Technologies into Remote Monitoring Patient Systems. Eng. Proc. 2024, 70, 54. https://doi.org/10.3390/engproc2024070054
 
-Encoders for Medical Image Segmentation
+
